@@ -1,0 +1,19 @@
+
+body
+{background-color:#FCF8E8;}
+th,td
+{padding: 10px;}
+.Title
+{font-family:"Papyrus",fantasy;color:#DF7861; text-shadow: 1px 1px 2px #ECB390;}
+hr
+{border-top-color:#ECB390; border-style:none;border-top-style:outset;border-width:1px;}
+a:link
+{color: #753422;}
+a:hover
+{color:#D4E2D4;}
+a:active
+{color: #753422;}
+a:visited
+{color:#753422;}
+a
+{font-family:"Courier New",monospace;}
