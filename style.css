@@ -1,10 +1,10 @@
 
 body
-{background-color:#FCF8E8;}
+{background-color:white;}
 th,td
 {padding: 10px;}
 .Title
-{font-family:"Papyrus",fantasy;color:#DF7861; text-shadow: 1px 1px 2px #ECB390;}
+{font-family:"Papyrus",fantasy;color:#E97777; text-shadow: 1px 1px 2px #ECB390;}
 hr
 {border-top-color:#ECB390; border-style:none;border-top-style:outset;border-width:1px;}
 a:link
@@ -17,3 +17,30 @@ a:visited
 {color:#753422;}
 a
 {font-family:"Courier New",monospace;}
+.Image1
+{
+  float: right;
+  border-right: 0;
+  margin-right: 0;
+}
+
+.Top
+{
+
+}
+
+.Middle
+{
+  padding: 25px;
+  padding-left: 200px;
+
+}
+
+.FontMiddle{font-family:"Papyrus", fantasy;
+font-weight: bolder;font-size:21px;}
+
+.Bottom
+{
+  padding: 25px;
+  padding-left: 500px;
+}
