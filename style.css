@@ -4,7 +4,7 @@ body
 th,td
 {padding: 10px;}
 .Title
-{font-family:"Papyrus",fantasy;color:#E97777; text-shadow: 1px 1px 2px #ECB390;}
+{font-family:"Garamond",fantasy;color:#FA7070; }
 hr
 {border-top-color:#ECB390; border-style:none;border-top-style:outset;border-width:1px;}
 a:link
@@ -19,9 +19,11 @@ a
 {font-family:"Courier New",monospace;}
 .Image1
 {
-  float: right;
+  position: relative;
+  left:179px;
   border-right: 0;
   margin-right: 0;
+
 }
 
 .Top
@@ -31,16 +33,22 @@ a
 
 .Middle
 {
-  padding: 25px;
   padding-left: 200px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 
 }
 
 .FontMiddle{font-family:"Papyrus", fantasy;
-font-weight: bolder;font-size:21px;}
+font-weight: bolder;font-size:21px;
+padding-top: 0;
+}
 
 .Bottom
 {
   padding: 25px;
   padding-left: 500px;
+  font-family:"Papyrus", fantasy;
+  font-weight: bolder;font-size:20px;
+  padding-top: 0;
 }
