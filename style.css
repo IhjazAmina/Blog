@@ -19,8 +19,8 @@ a
 {font-family:"Courier New",monospace;}
 .Image1
 {
-  position: relative;
-  left:179px;
+  position: absolute;
+  right:0;
   border-right: 0;
   margin-right: 0;
 
