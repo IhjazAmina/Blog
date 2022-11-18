@@ -1,54 +1,53 @@
-
-body
-{background-color:white;}
-th,td
-{padding: 10px;}
-.Title
-{font-family:"Garamond",fantasy;color:#FA7070; }
-hr
-{border-top-color:#ECB390; border-style:none;border-top-style:outset;border-width:1px;}
-a:link
-{color: #753422;}
-a:hover
-{color:#D4E2D4;}
-a:active
-{color: #753422;}
-a:visited
-{color:#753422;}
-a
-{font-family:"Courier New",monospace;}
-.Image1
+.Logo_Image
 {
   position: absolute;
-  right:0;
-  border-right: 0;
-  margin-right: 0;
-
+  left:480px;
+  width:50px;
+  border-radius:100%;
+  margin-top: 15px;
+  border-style:ridge;
 }
-
-.Top
+.Logo
 {
-
+  margin:0px;
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-top:20px;
+  color:#ff8080;
+  font-weight: bold;
+  font-size: 45px;
 }
-
-.Middle
+.Sublogo
 {
-  padding-left: 200px;
-  padding-top: 0px;
-  padding-bottom: 0px;
-
+  margin:15px;
+  font-family: 'Special Elite', cursive;
+  font-size:18px;
+  margin-top:0px;
 }
-
-.FontMiddle{font-family:"Papyrus", fantasy;
-font-weight: bolder;font-size:21px;
-padding-top: 0;
-}
-
-.Bottom
+.BookShelf
 {
-  padding: 25px;
-  padding-left: 500px;
-  font-family:"Papyrus", fantasy;
-  font-weight: bolder;font-size:20px;
-  padding-top: 0;
+  width:90px;
+  position: relative;
+  left:1100px;
+}
+.Font_para1
+{
+  text-align: right;
+  padding-right: 70px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+}
+hr
+{
+  border-color: #FFF5E4;
+  border-style:dotted;
+  border-style: solid;
+}
+.Intro
+{
+  position:absolute;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding-top: 50px;
+  padding-left: 15px;
 }
