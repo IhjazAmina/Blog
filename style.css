@@ -39,7 +39,7 @@
 hr
 {
   border-color: #FFF5E4;
-  border-style:dotted;
+
   border-style: solid;
 }
 .Intro
@@ -51,3 +51,46 @@ hr
   padding-top: 50px;
   padding-left: 15px;
 }
+.Top_container
+{
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+.Middle_container
+{
+background-color: #fff5dd;
+margin-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 20px;
+}
+.Bottom_container
+{
+  text-align: center;
+  margin-top:20px;
+  margin-bottom:40px;
+}
+.Heading
+{
+  font-family: 'Merienda', cursive;
+  color:#ff8080;
+}
+.maintext
+{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+.linktext
+{
+  font-family: 'Rajdhani', sans-serif;
+  font-size:20px;
+}
+.table1
+{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  margin-left: auto;
+  margin-right: auto;
+}
+th,td{padding: 15px;}
