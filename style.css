@@ -26,8 +26,9 @@
 .BookShelf
 {
   width:90px;
-  position: relative;
-  left: 1100px;
+  float: right;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 .Font_para1
 {
