@@ -1,6 +1,6 @@
 .Logo_Image
 {
-  position: absolute;
+  float:left;
   left:480px;
   width:50px;
   border-radius:100%;
@@ -14,7 +14,7 @@
   margin-top:20px;
   color:#ff8080;
   font-weight: bold;
-  font-size: 45px;
+  font-size: 50px;
 }
 .Sublogo
 {
@@ -27,19 +27,20 @@
 {
   width:90px;
   position: relative;
-  left:1100px;
+  left: 1100px;
 }
 .Font_para1
 {
   text-align: right;
-  padding-right: 70px;
+  margin-left: 50px;
+  margin-right:40px;
   font-family: 'Noto Sans', sans-serif;
   font-size: 20px;
+
 }
 hr
 {
   border-color: #FFF5E4;
-
   border-style: solid;
 }
 .Intro
@@ -48,13 +49,11 @@ hr
   font-family: 'Noto Sans', sans-serif;
   font-size: 20px;
   font-weight: 100;
-  padding-top: 50px;
   padding-left: 15px;
 }
 .Top_container
 {
-  margin-top: 40px;
-  margin-bottom: 50px;
+    margin: 50px 475px 50px 475px;
 }
 .Middle_container
 {
@@ -65,9 +64,6 @@ margin-bottom: 20px;
 }
 .Bottom_container
 {
-  text-align: center;
-  margin-top:20px;
-  margin-bottom:40px;
 }
 .Heading
 {
@@ -84,6 +80,7 @@ margin-bottom: 20px;
 {
   font-family: 'Rajdhani', sans-serif;
   font-size:20px;
+  font-weight: bold;
 }
 .table1
 {
@@ -94,3 +91,24 @@ margin-bottom: 20px;
   margin-right: auto;
 }
 th,td{padding: 15px;}
+.Book_pics
+{
+  width:15%;
+  height:15%;
+  margin:10px 30px 10px 30px;
+}
+.contact-me
+{
+  text-align:center;
+  background-color:#ff8080;
+  padding-top:20px;
+}
+.Author_Pic
+{
+  border-radius:100%;
+  width:35%;
+  float:left;
+  margin-right:70pX;
+  margin-top:5px;
+  margin-bottom:40px;
+}
