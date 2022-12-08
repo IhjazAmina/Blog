@@ -1,0 +1,176 @@
+
+.Logo
+{
+  margin:0px;
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-top:20px;
+  color:#00B2C2;
+  font-weight:normal;
+  font-size: 55px;
+}
+.Sublogo
+{
+  margin:15px;
+  font-family: 'Special Elite', cursive;
+  font-size:18px;
+  margin-top:0px;
+}
+.BookHeading
+{
+    font-family: 'Titillium Web', sans-serif;
+    color:#05A9C7;
+    font-size: 20px;
+    font-weight: 595;
+}
+.BookShelf
+{
+  width:90px;
+  float: right;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.Font_para1
+{
+  text-align: right;
+  margin-left: 50px;
+  margin-right:40px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+}
+hr
+{
+  border-color: #afeeee;
+  border-style: solid;
+  border: 0px;
+}
+a
+{
+  color:#13294B;
+  letter-spacing: 1px;
+  transition: color 0.5s;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #C8E9E9;
+}
+.image1
+{
+width:100%;height:25vw;object-fit:cover
+
+}
+.image1:hover
+{
+  transform:scale(1.05,1.03);
+  filter: brightness(110%);
+  transition: all 0.30s linear;
+}
+.Intro
+{
+  position:absolute;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding-left: 15px;
+}
+.Top_container
+{
+    margin: 20px auto 40px auto;
+}
+.Middle_container
+{
+background-color: #C8E9E9;
+margin-top: 10px;
+padding-bottom: 30px;
+
+}
+.Bottom_container
+{
+}
+
+.container-fluid
+{
+  background-color: #FEFBEA;
+  padding:3% 5%;
+}
+.Heading
+{
+  font-family: 'Merienda', cursive;
+  color:#00B2C2;
+}
+.maintext
+{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+.linktext
+{
+  font-family: 'Rajdhani', sans-serif;
+  font-size:20px;
+  font-weight: bold;
+}
+.table1
+{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  margin-left: auto;
+  margin-right: auto;
+}
+th,td{padding: 15px;}
+.Book_pics
+{
+  width:15%;
+  height:15%;
+  margin:10px 30px 10px 30px;
+}
+.contact-me
+{
+  text-align:center;
+  background-color:#05A9C7;
+  padding-top:20px;
+}
+.Author_Pic
+{
+  border-radius:100%;
+  width:35%;
+  float:left;
+  margin-right:70pX;
+  margin-top:5px;
+  margin-bottom:40px;
+}
+.About_me
+{
+  margin:100px auto 100px auto;
+  width:75%;
+}
+.btnA {
+  background: #2980b9;
+  background-image: -webkit-linear-gradient(top, #2980b9, #05A9C7);
+  background-image: -moz-linear-gradient(top, #2980b9, #05A9C7);
+  background-image: -ms-linear-gradient(top, #2980b9, #05A9C7);
+  background-image: -o-linear-gradient(top, #2980b9, #05A9C7);
+  background-image: linear-gradient(to bottom, #2980b9, #05A9C7);
+  -webkit-border-radius: 35;
+  -moz-border-radius: 35;
+  border-radius: 35px;
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btnA:hover {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #2980b9);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #2980b9);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #2980b9);
+  background-image: -o-linear-gradient(top, #3cb0fd, #2980b9);
+  background-image: linear-gradient(to bottom, #3cb0fd, #2980b9);
+  text-decoration: none;
+}
